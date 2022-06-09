@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Giftobafaiye
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning product design
-- 💞️ I’m looking to collaborate on Netflix Interface
+- 🌱 I’m a Product Designer
+- 💞️ I’m looking to collaborate on products
 - 📫 How to reach me ...+2347013722966
+
 
 <!---
 Giftobafaiye/Giftobafaiye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
